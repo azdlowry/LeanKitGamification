@@ -19,6 +19,8 @@
   "bugs": {
     "url": "https://github.com/AndyLowryLateRooms/LeanKitGamification/issues"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "express": "~3.5.0"
   }
 }
